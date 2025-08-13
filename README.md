@@ -23,3 +23,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+[![Node CI](https://github.com/danielanthonyO/test_CICD2/actions/workflows/whatever.yml/badge.svg)](https://github.com/danielanthonyO/test_CICD2/actions/workflows/whatever.yml)
